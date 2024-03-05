@@ -1,0 +1,17 @@
+{
+  "name": "homework4",
+  "version": "1.0.0",
+  "description": "Homework 4 for Software Engineering",
+  "main": "homework4.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Haejin Song",
+  "license": "ISC",
+  "dependencies": {
+    "node-ical": "^0.17.2"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
